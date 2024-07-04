@@ -1,4 +1,6 @@
 
+![alt text](images/main.png)
+
 # Multi-dimensional Array Generator and Visualizer
 
 This Python script generates and visualizes multi-dimensional arrays based on user-defined dimensions and sizes. The array elements are determined by specific rules and conditions.
@@ -130,7 +132,7 @@ else:
     plt.suptitle("2D Slices of Higher Dimensional Array")
     plt.show()
 ```
-
+![alt text](images/dim=3[10,10,10].png)
 ## License
 
 This project is licensed under the MIT License.
