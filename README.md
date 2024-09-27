@@ -1,4 +1,4 @@
-<img src="images/main.png" alt="logo" width="500">
+<img src="images/main.png" style="text-align: center;" alt="logo" width="500">
 
 # Multi-dimensional Array Generator and Visualizer
 
